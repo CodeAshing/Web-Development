@@ -2,8 +2,10 @@
 Code-sand-box:https://codesandbox.io/index2
 Undraw:https://undraw.co/illustrations
 Grid:http://grid.malven.co/
+Mashup:http://www.mashup-template.com/
 future-guidline:https://docs.google.com/document/d/1skWPUsXy6zzw6MMx-opW3LbJtUDhLfbTK7wcGfA8Edg/edit
 flex-frog:https://flexboxfroggy.com/
+paleton:https://paletton.com/
 Ever-Green:https://evergreen.segment.com/components/
 Mail-Chimp:https://mailchimp.com/
 Font-google:https://fonts.google.com/
