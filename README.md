@@ -1,4 +1,14 @@
 # Web-Development
+
+immutable: https://immutable-js.github.io/immutable-js/
+REact-Semanric-ui: https://react.semantic-ui.com/
+Material-ui: https://material-ui.com/
+NestJS: https://nestjs.com/
+GatsbyJS: https://www.gatsbyjs.org/
+CSS-Modules: https://github.com/css-modules/css-modules
+Styled-Component: https://styled-components.com/
+Glamorous: https://glamorous.rocks/
+Ramda: https://ramdajs.com/
 MDB:https://mdbootstrap.com/docs/react/components/demo/
 Code-sand-box:https://codesandbox.io/index2
 Netify:https://app.netlify.com/
