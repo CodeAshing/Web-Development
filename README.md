@@ -1,4 +1,8 @@
 # Web-Development
+particles:https://speckyboy.com/particle-animation-code-snippets/
+particle react js:https://www.npmjs.com/package/react-particles-js
+css-pattern-gallary:https://leaverou.github.io/css3patterns/
+react-tilt:https://www.npmjs.com/package/react-tilt
 Twilio API:https://www.twilio.com/
 Stripe API:https://stripe.com/docs/api
 Swapi:https://swapi.dev
