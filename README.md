@@ -1,5 +1,7 @@
 # Web-Development
-
+Twilio API:https://www.twilio.com/
+Stripe API:https://stripe.com/docs/api
+Swapi:https://swapi.dev
 immutable: https://immutable-js.github.io/immutable-js/
 REact-Semanric-ui: https://react.semantic-ui.com/
 Material-ui: https://material-ui.com/
