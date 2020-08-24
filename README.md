@@ -39,3 +39,4 @@ Creative-Tim:https://www.creative-tim.com/
 animejs:https://animejs.com/
 Uigradient: https://uigradients.com/
 Trello:https://trello.com/ 
+michalsnik: https://michalsnik.github.io/aos/
