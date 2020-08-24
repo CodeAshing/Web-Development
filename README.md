@@ -35,5 +35,7 @@ CSS-Trick:https://css-tricks.com/
 Bootstrap:https://getbootstrap.com/docs/4.4/components/alerts/
 Pose:https://popmotion.io/pose/
 Lodash: https://lodash.com/docs/  
-Creative-Tim:https://www.creative-tim.com/  
+Creative-Tim:https://www.creative-tim.com/
+animejs:https://animejs.com/
+Uigradient: https://uigradients.com/
 Trello:https://trello.com/ 
